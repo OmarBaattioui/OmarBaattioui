@@ -1,7 +1,7 @@
 # Hi there, I'm Omar Baattioui 👋
 
 🎓 **Software Engineering Master's Student** at [Zhejiang University (ZJU)](http://www.zju.edu.cn), China  
-🎯 **Focus Areas:** Recommendation Systems (RecSys) • Machine Learning • Information Retrieval  
+🎯 **Focus Areas:** Recommendation Systems (RecSys) • Machine Learning • Data science  
 
 ---
 
@@ -13,9 +13,9 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python, C++, SQL, Bash
+- **Languages:** Python
 - **ML & Data:** PyTorch, Scikit-learn, TensorFlow, NumPy, Pandas, Scipy
-- **Engineering & Tools:** Git, Docker, Linux, FastAPI, REST APIs
+- **Engineering & Tools:** Git, FastAPI, REST APIs
 
 ---
 
